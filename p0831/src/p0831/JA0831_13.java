@@ -27,7 +27,7 @@ public class JA0831_13 {
 		//System.out.println(b);
 		//System.out.println(c);
 		
-		boolean power = true;
+		boolean power = true; //리모컨 on/off랑 같다
 		System.out.println(power); //true
 		power = !power;
 		System.out.println(power); //false
